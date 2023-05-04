@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "jswSecret": "ghmhnt",
+  "mongoDB": "mongodb+srv://user:user@cluster0.nxql3.mongodb.net/?retryWrites=true&w=majority"
+}
